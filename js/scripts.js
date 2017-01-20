@@ -22,8 +22,7 @@ $(document).ready(function() {
     var input = $("#input").val();
     var output = pingAndPong(input);
     output.forEach(function(heyNow) {
-      $(".place").append("<li>" + heyNow + "</li>");
-      $("#forminput")[0].reset();
+      $("#place").append("<li>" + heyNow + "</li>");
     });
   });
 });

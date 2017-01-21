@@ -26,7 +26,7 @@ Output Example: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,'ping pong'
 ## Setup/Installation Requirements
 
 * Open web browser
-* Clone this, "" repository, then open 'index.html' in the browser.
+* Clone this, "https://github.com/jaythinkshappiness/Ping-Pong.git" repository, then open 'index.html' in the browser.
 * Inside you will find
   * css folder
   * README.md file

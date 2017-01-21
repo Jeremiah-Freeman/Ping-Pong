@@ -3,4 +3,13 @@
 .jumbotron {
   text-align: center;
   background-color: lightblue;
+  margin-top: 20px;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+img {
+  margin-left: 26%
 }

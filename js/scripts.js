@@ -1,3 +1,4 @@
+// Business Logic
 function pingAndPong(input){
   var output = [];
   for (var i=1; i <= input; i++) {
@@ -13,9 +14,7 @@ function pingAndPong(input){
   }
   return output;
 }
-
-
-
+// User interface logic
 $(document).ready(function() {
   $("#forminput").submit(function(event) {
     event.preventDefault();
